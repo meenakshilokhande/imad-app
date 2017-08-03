@@ -10,7 +10,7 @@ button.onclick = function(){
 //submit name
 var nameInput=document.getElementById('name');
 var name=nameInput.value;
-var submit=document.getElementById('submit"_btn');
+var submit=document.getElementById('submit_btn');
 submit.onclick=function(){
     //make the req to the server and send the name
  //capture a list of names and render it as a list 
