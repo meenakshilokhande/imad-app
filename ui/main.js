@@ -9,4 +9,4 @@ element.innerHTML='click on image';
 var img=document.getElementById('madi');
 img.onclick=function(){
     img.style=marginileft='100px';
-}
+};
